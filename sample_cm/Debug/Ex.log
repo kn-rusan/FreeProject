@@ -1,0 +1,6 @@
+﻿cl : コマンド ライン warning D9035: オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  Ex.cpp
+C:\Users\nakamura\Desktop\sample_cm\Ex.cpp(69): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  C:\Users\nakamura\Desktop\sample_cm\Ex.cpp(69): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、2 が指定されています。
+C:\Users\nakamura\Desktop\sample_cm\Ex.cpp(182): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Ex.vcxproj -> C:\Users\nakamura\Desktop\sample_cm\Debug\Ex.exe
